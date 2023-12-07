@@ -14,8 +14,11 @@ Utilizes Spring Data JPA for easy database interactions
 
 Structure:
 EmployeeController: Manages HTTP requests and defines API endpoints for employee operations.
+
 EmployeeService: Contains business logic for employee-related functionalities.
+
 EmployeeRepository: Interface extending JpaRepository for database operations on Employee entities.
+
 Employee Model: Represents the structure of an employee entity.
 
 Skills and Technologies Demonstrated:
